@@ -6,7 +6,8 @@
 - **2027 年 1 月 31 日 `500×500` 像素图片新规免费批量检测（250 款商品 + 导出表格）**：[https://storepolicycheck.com/tools/gmc-image-size-checker](https://storepolicycheck.com/tools/gmc-image-size-checker)
 - **多规格 `?variant=` 前台卖价 vs 底层代码 (`ProductGroup` JSON-LD) 免费比对**：[https://storepolicycheck.com/tools/shopify-variant-json-ld-price-checker](https://storepolicycheck.com/tools/shopify-variant-json-ld-price-checker)
 - **申诉前 15 项防冷却在线打分表（区分前台公开项 vs 谷歌后台私密项）**：[https://storepolicycheck.com/tools/gmc-appeal-readiness-checklist](https://storepolicycheck.com/tools/gmc-appeal-readiness-checklist)
-- **1080p 英文实测演示视频（YouTube 官方频道）**：[https://youtu.be/P1ZFbBqXJH8](https://youtu.be/P1ZFbBqXJH8)
+- **1080p 英文实测演示视频（YouTube 官方频道）**：[https://youtu.be/P1ZFbBqXJH8
+- **官方 X（原推特）账号 (`@StorePolicyHQ`)**：[https://x.com/StorePolicyHQ](https://x.com/StorePolicyHQ)](https://youtu.be/P1ZFbBqXJH8)
 
 ---
 
